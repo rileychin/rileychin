@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rileychin
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning React for frontend developers
+- 👀 I’m interested in exploring all about tech
+- 🌱 I’m currently learning deployment and containerisation technologies
 - 📫 How to reach me : rileyqx@yahoo.com.sg
 
 <!---
