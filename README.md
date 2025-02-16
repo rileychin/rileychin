@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rileychin
 - 👀 I’m interested in exploring all about tech
-- 🌱 I’m currently learning deployment and containerisation technologies
+- 🌱 I’m currently full stack development
 - 📫 How to reach me : rileyqx@yahoo.com.sg
 
 <!---
